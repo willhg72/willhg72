@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm William Hernández</h1>
 <h3 align="justify"><p>As a results-oriented leader in software development, I excel at enhancing technology process efficiency through innovative automation solutions.</p> <p>My expertise includes proficiency in Python along with AI and no-code tools (Jotform, Airtable, Zapier, Make, Chat GPT). My commitment and integrative vision are key aspects of my approach.</p><p>When faced with any challenge, I'm adept at orchestrating effective solutions that drive technological advancement.</p></h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willhg72&label=Profile%20views&color=0e75b6&style=flat" alt="willhg72" /> </p>
 
