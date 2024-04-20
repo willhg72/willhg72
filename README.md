@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5616AQGTRL6lj-2PZg/profile-displaybackgroundimage-shrink_350_1400/0/1706708560176?e=1718841600&v=beta&t=ZXjhpOaxh9oHVpWQa-K0Vdq4bBJp_ugV3kRwyp4iTWM)](https://www.linkedin.com/in/will-i-am-hernandez/)
 <h1 align="center">Hi 👋, I'm William Hernández</h1>
-<h3 align="justify">As a results-oriented leader in software development, I excel at enhancing technology process efficiency through innovative automation solutions. My expertise includes proficiency in Python along with AI and no-code tools (Jotform, Airtable, Zapier, Make, Chat GPT). My commitment and integrative vision are key aspects of my approach. When faced with any challenge, I'm adept at orchestrating effective solutions that drive technological advancement.</h3>
+<h3 align="justify"><p>As a results-oriented leader in software development, I excel at enhancing technology process efficiency through innovative automation solutions.</p> <p>My expertise includes proficiency in Python along with AI and no-code tools (Jotform, Airtable, Zapier, Make, Chat GPT). My commitment and integrative vision are key aspects of my approach.</p><p>When faced with any challenge, I'm adept at orchestrating effective solutions that drive technological advancement.</p></h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
